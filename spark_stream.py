@@ -67,12 +67,7 @@ def create_spark_connection():
     s_conn = None
 
     try:
-        s_conn = SparkSession.builder \
-            .appName('SparkDataStreaming') \
-            .config('spark.jars.packages', "com.datastax.spark:spark-cassandra-connector_2.13:3.4.1,"
-                                           "org.apache.spark:spark-sql-kafka-0-10_2.13:3.4.1") \
-            .config('spark.cassandra.connection.host', 'localhost') \
-            .getOrCreate()
+        s_conn = SparkSession.builder.appName('SparkDataStreaming').config('spark.jars.packages', 'com.datastax.spark:spark-cassandra-connector_2.13:3.4.1, org.apache.spark:spark-sql-kafka-0-10_2.13:3.4.1').config('spark.cassandra.connection.host', 'localhost').getOrCreate()
 
         s_conn.sparkContext.setLogLevel("ERROR")
         logging.info("Spark connection created successfully!")
@@ -136,6 +131,7 @@ def create_selection_df_from_kafka(spark_df):
 if __name__ == "__main__":
     # create spark connection
     spark_conn = create_spark_connection()
+    # print("test" + spark_conn)
 
     if spark_conn is not None:
         # connect to kafka with spark connection
