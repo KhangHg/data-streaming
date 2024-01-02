@@ -1,0 +1,792 @@
+[
+  {
+    "company_name": "Atomi Systems",
+    "company_url": "https://itviec.com/companies/atomi-systems",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "9 Duy Tan, Cau Giay, Ha Noi",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "ARIS Vietnam",
+    "company_url": "https://itviec.com/companies/aris-vietnam",
+    "type": "Outsourcing",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Block B, Waseco Building, 10 Pho Quang Street, Tan Binh, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Arbin Instruments",
+    "company_url": "https://itviec.com/companies/arbin-instruments",
+    "type": "Product",
+    "size": "151-300 employees",
+    "working_day": "Monday - Friday",
+    "country": "United States",
+    "location": "205 GS1, Dong Hoa, Di An, Binh Duong (Sát cạnh Thủ Đức), Thu Duc City, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Asia Plus Inc.",
+    "company_url": "https://itviec.com/companies/asia-plus-inc",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Japan",
+    "location": "6F 506 Nguyen Dinh Chieu Street, Ward 4, District 3, Ho Chi Minh City, District 3, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "APTECH VIETNAM CO., LTD",
+    "company_url": "https://itviec.com/companies/aptech-vietnam-co-ltd",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Hong Kong",
+    "location": "523 Tô Hiến Thành, Phường 14, Quận 10, TP.HCM, District 10, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Ateam Việt Nam",
+    "company_url": "https://itviec.com/companies/ateam-viet-nam",
+    "type": "Product",
+    "size": "1000+ employees",
+    "working_day": "Monday - Friday",
+    "country": "Japan",
+    "location": "Phòng 3-139, Tầng 3, Khu văn phòng We Work, tòa nhà Lim tower 3, số 29A Nguyễn Đình Chiểu, Phường Đakao, District 1, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "APOLLOGIX",
+    "company_url": "https://itviec.com/companies/apollogix",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "39, B4 Street, An Loi Dong Ward, Thu Duc City, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "ANNA LEE GROUP",
+    "company_url": "https://itviec.com/companies/anna-lee-group",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Hoàng Trọng Mậu, Mỹ Đình, Hà Nội, Nam Tu Liem, Ha Noi",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Asilla",
+    "company_url": "https://itviec.com/companies/asilla",
+    "type": "Product",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Tầng 3, số 6 ngõ 82 Duy Tân, phường Dịch Vọng Hậu, Cau Giay, Ha Noi",
+    "job_quantity": "4 job openings"
+  },
+  {
+    "company_name": "AS Solution",
+    "company_url": "https://itviec.com/companies/as-solution",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "8 Cuu Long Street, Tan Binh, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Amnis Finance",
+    "company_url": "https://itviec.com/companies/amnis-finance",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "40 Hai Ba Trung Street, Hoan Kiem, Ha Noi",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "ANDPAD VietNam Co., Ltd",
+    "company_url": "https://itviec.com/companies/andpad-vietnam-co-ltd",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Japan",
+    "location": "62 Tran Quang Khai, Tan Dinh Ward, District 1, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "AMANOTES",
+    "company_url": "https://itviec.com/companies/amanotes",
+    "type": "Product",
+    "size": "151-300 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "2nd floor, PaxSky Building, 26 Ung Van Khiem, Ward 25, Binh Thanh, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Cybozu Vietnam",
+    "company_url": "https://itviec.com/companies/cybozu-vietnam",
+    "type": "Product",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Japan",
+    "location": "106 Nguyen Van Troi, Phu Nhuan, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "AltSource",
+    "company_url": "https://itviec.com/companies/altsource",
+    "type": "Outsourcing",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "United States",
+    "location": "Sabay Building, 05 Cuu Long Street, Ward 2, Tan Binh, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Credit360.AI",
+    "company_url": "https://itviec.com/companies/credit360-ai",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "N. 6-7, Phan Ton street, Da Kao ward, District 1, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Athena Studio",
+    "company_url": "https://itviec.com/companies/athena-studio",
+    "type": "Product",
+    "size": "151-300 employees",
+    "working_day": "Monday - Friday",
+    "country": "United Arab Emirates",
+    "location": "40A Lam Sơn, Phường 2, Tan Binh, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Công ty TNHH Thankslab Việt Nam",
+    "company_url": "https://itviec.com/companies/cong-ty-tnhh-thankslab-viet-nam",
+    "type": "Product",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Japan",
+    "location": "2nd Floor, Mach Building, 127 Ung Van Khiem Street, Ward 25, Binh Thanh, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Công Ty TNHH Stack Tech",
+    "company_url": "https://itviec.com/companies/cong-ty-tnhh-stack-tech",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Singapore",
+    "location": "Số 9 Nguyễn Cơ Thạch, phường An Lợi Đông, Quận 2, Thu Duc City, Ho Chi Minh",
+    "job_quantity": "3 job openings"
+  },
+  {
+    "company_name": "CÔNG TY TNHH SUNGGA VINA",
+    "company_url": "https://itviec.com/companies/cong-ty-tnhh-sungga-vina",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Saturday",
+    "country": "South Korea",
+    "location": "Số 39 Nguyễn Gia Trí, P. 25, Binh Thanh, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Công ty TNHH Kloud Nine",
+    "company_url": "https://itviec.com/companies/cong-ty-tnhh-kloud-nine",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "1/11 Đường 33, An Khánh, Thành Phố Thủ Đức, Thu Duc City, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "CÔNG TY TNHH DROH",
+    "company_url": "https://itviec.com/companies/cong-ty-tnhh-droh",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "32/2 Thống Nhất, Phường 10, Go Vap, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "CUBICSTACK SOLUTIONS",
+    "company_url": "https://itviec.com/companies/cubicstack-solutions",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Charmington La Pointe Officetel Apartments, 181 Cao Thang St, District 10, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "CyberQuote Pte Ltd",
+    "company_url": "https://itviec.com/companies/cyberquote-pte-ltd",
+    "type": "Product",
+    "size": "501-1000 employees",
+    "working_day": "Monday - Friday",
+    "country": "Singapore",
+    "location": "PVI Tower Số 1 Phạm Văn Bạch, Cau Giay, Ha Noi",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Công Ty TNHH Clever Creations Tech",
+    "company_url": "https://itviec.com/companies/cong-ty-tnhh-clever-creations-tech",
+    "type": "Product",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "459 Sư Vạn Hạnh, Phường 12, District 10, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Công ty TNHH Better Pro",
+    "company_url": "https://itviec.com/companies/cong-ty-tnhh-better-pro",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "\"1901, Mapletree Business Centre,1060 Nguyen Van Linh Street, Tan Phong Ward, District 7, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Công ty TNHH BarBaard",
+    "company_url": "https://itviec.com/companies/cong-ty-tnhh-barbaard",
+    "type": "Product",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "36 Hang Chao, Dong Da, Ha Noi",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "CÔNG TY CỔ PHẦN TRUYỀN THÔNG DU LỊCH VIỆT",
+    "company_url": "https://itviec.com/companies/cong-ty-co-phan-truyen-thong-du-lich-viet",
+    "type": "Product",
+    "size": "301-500 employees",
+    "working_day": "Monday - Saturday",
+    "country": "Vietnam",
+    "location": "239A Hoàng Văn Thụ, Phường 8, Phu Nhuan, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Công ty TNHH AMAR Việt Nam",
+    "company_url": "https://itviec.com/companies/cong-ty-tnhh-amar-viet-nam",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "48C Mạc Đĩnh Chi, Phường Phước Tiến, Nha Trang",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Công Ty Cổ Phần Tập Đoàn Đầu Tư EMIR",
+    "company_url": "https://itviec.com/companies/cong-ty-co-phan-tap-doan-dau-tu-emir",
+    "type": "Product",
+    "size": "301-500 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Tầng 1+2 tòa nhà Lâm Viên Complex, 107 Nguyễn Phong Sắc, Cau Giay, Ha Noi",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Công Ty Cổ Phần Tập Đoàn Meey Land",
+    "company_url": "https://itviec.com/companies/cong-ty-co-phan-tap-doan-meey-land",
+    "type": "Product",
+    "size": "301-500 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "floor 5 no 97-99 Lang Ha building, Dong Da, Ha Noi",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Công ty Cổ phần Chứng khoán VPBank",
+    "company_url": "https://itviec.com/companies/cong-ty-co-phan-chung-khoan-vpbank",
+    "type": "Product",
+    "size": "501-1000 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Tầng 25, Toà nhà Văn phòng Thương mại, số 89 Láng Hạ, Phường Láng Hạ, Dong Da, Ha Noi",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "CÔNG TY CỔ PHẦN CHỨNG KHOÁN KAFI",
+    "company_url": "https://itviec.com/companies/cong-ty-co-phan-chung-khoan-kafi",
+    "type": "Product",
+    "size": "151-300 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Sailing Tower, 111A Pasteur, Ward Ben Nghe, District 1, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Công ty Cổ phần Chứng khoán KIS Việt Nam",
+    "company_url": "https://itviec.com/companies/cong-ty-co-phan-chung-khoan-kis-viet-nam",
+    "type": "Product",
+    "size": "151-300 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Tầng 3 và tầng 11, Tòa nhà TNR, số 180-192 Nguyễn Công Trứ, Phường Nguyễn Thái Bình, District 1, Ho Chi Minh",
+    "job_quantity": "3 job openings"
+  },
+  {
+    "company_name": "Công Ty Cổ Phần Công Nghệ 7S",
+    "company_url": "https://itviec.com/companies/cong-ty-co-phan-cong-nghe-7s",
+    "type": "Outsourcing",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "2nd Floor, HPCons Building, No. 2/13A Bach Dang, Ward 12, Tan Binh, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Con Cưng",
+    "company_url": "https://itviec.com/companies/con-cung",
+    "type": "Product",
+    "size": "1000+ employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "14th Floor, Phu My Hung Tower, 08 Hoang Van Thai, District 7, Ho Chi Minh",
+    "job_quantity": "3 job openings"
+  },
+  {
+    "company_name": "Confluence Vietnam (HCMC)",
+    "company_url": "https://itviec.com/companies/confluence-vietnam-hcmc",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "United States",
+    "location": "178/8 Nguyễn Văn Thương, Phường 25, Binh Thanh, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Compax",
+    "company_url": "https://itviec.com/companies/compax",
+    "type": "Product",
+    "size": "501-1000 employees",
+    "working_day": "Monday - Friday",
+    "country": "Austria",
+    "location": "Level 12A, Centre Building, 85 Vũ Trọng Phụng, Thanh Xuan, Ha Noi",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Codix",
+    "company_url": "https://itviec.com/companies/codix",
+    "type": "Product",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "France",
+    "location": "364 Cong Hoa, Tan Binh, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "CoderPush",
+    "company_url": "https://itviec.com/companies/coderpush",
+    "type": "Product",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Inspire Hub 2, 122 Đ. B2, An Lợi Đông, Quận 2, Thành phố Hồ Chí Minh, Thu Duc City, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "CodeLink",
+    "company_url": "https://itviec.com/companies/codelink",
+    "type": "Outsourcing",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "131 Xo Viet Nghe Tinh 17 Ward, Binh Thanh, Ho Chi Minh",
+    "job_quantity": "5 job openings"
+  },
+  {
+    "company_name": "CodeHQ",
+    "company_url": "https://itviec.com/companies/codehq",
+    "type": "Outsourcing",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "New Zealand",
+    "location": "Quang Trung Software City, District 12, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Clever Age",
+    "company_url": "https://itviec.com/companies/clever-age",
+    "type": "Outsourcing",
+    "size": "301-500 employees",
+    "working_day": "Monday - Friday",
+    "country": "France",
+    "location": "81 Cao Thang, District 3, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Coc Coc",
+    "company_url": "https://itviec.com/companies/coc-coc",
+    "type": "Product",
+    "size": "301-500 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "8th Floor, ICON4 multi-purpose building, 243A De La Thanh, Lang Thuong, Dong Da, Hanoi, Dong Da, Ha Noi",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Central Retail",
+    "company_url": "https://itviec.com/companies/central-retail",
+    "type": "Product",
+    "size": "1000+ employees",
+    "working_day": "Monday - Friday",
+    "country": "Thailand",
+    "location": "Số 163 Phan Đăng Lưu , Phu Nhuan, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "City Ascom Việt Nam",
+    "company_url": "https://itviec.com/companies/city-ascom-viet-nam",
+    "type": "Outsourcing",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Tầng 12A tòa nhà Peakview Tower, số 36 phố Hoàng Cầu, Phường Ô Chợ Dừa, Dong Da, Ha Noi",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "CARE CONNECT VIETNAM",
+    "company_url": "https://itviec.com/companies/care-connect-vietnam",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Unit 705-706, F7, PetroVietnam Tower 1-5 Le Duan Street, Ben Nghe Ward, District 1, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "CODE88 COMPANY LIMITED",
+    "company_url": "https://itviec.com/companies/code88-company-limited",
+    "type": "Product",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Singapore",
+    "location": "Floor 6, C.T Plaza Building, Tan Son Nhat, 60A Truong Son Street, Ward 2, Tan Binh, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "BYCN IT Vietnam",
+    "company_url": "https://itviec.com/companies/bycn-it-vietnam",
+    "type": "Product",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "France",
+    "location": "Etown Building, 364 Cong Hoa Street, Ward 13, Tan Binh, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Capgemini Vietnam",
+    "company_url": "https://itviec.com/companies/capgemini-vietnam",
+    "type": "Outsourcing",
+    "size": "301-500 employees",
+    "working_day": "Monday - Friday",
+    "country": "France",
+    "location": "106 Nguyen Van Troi, Phu Nhuan, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Bull Labs",
+    "company_url": "https://itviec.com/companies/bull-labs",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Vinhomes West Point, Pham Hung Street, Me Tri Ward, Nam Tu Liem, Ha Noi",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Buymed",
+    "company_url": "https://itviec.com/companies/buymed",
+    "type": "Product",
+    "size": "501-1000 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Vincom Center Đồng Khởi, 45A Lý Tự Trọng, p. Bến Nghé,, District 1, Ho Chi Minh",
+    "job_quantity": "3 job openings"
+  },
+  {
+    "company_name": "BStar Solutions",
+    "company_url": "https://itviec.com/companies/bstar-solutions",
+    "type": "Outsourcing",
+    "size": "151-300 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "56 Yên Thế, Phường 2, Tan Binh, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Burning Bros",
+    "company_url": "https://itviec.com/companies/burning-bros",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "South Korea",
+    "location": "69 Xa Lộ Hà Nội, phường Thảo Điền, District 2, Ho Chi Minh",
+    "job_quantity": "3 job openings"
+  },
+  {
+    "company_name": "BRICKMATE GROUP VIETNAM",
+    "company_url": "https://itviec.com/companies/brickmate-group-vietnam",
+    "type": "Outsourcing",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "South Korea",
+    "location": "29A Nguyen Dinh Chieu, Dakao, District 1, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Bosch Global Software Technologies Company Limited",
+    "company_url": "https://itviec.com/companies/bosch-global-software-technologies-company-limited",
+    "type": "Product",
+    "size": "1000+ employees",
+    "working_day": "Monday - Friday",
+    "country": "Germany",
+    "location": "364 Cong Hoa street, ward 13, Tan Binh, Ho Chi Minh",
+    "job_quantity": "4 job openings"
+  },
+  {
+    "company_name": "Beincom",
+    "company_url": "https://itviec.com/companies/beincom",
+    "type": "Product",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "EVOL GROUP - TTC Building, No 1, Tan Thuan Street, District 7, HCMC, District 7, Ho Chi Minh",
+    "job_quantity": "3 job openings"
+  },
+  {
+    "company_name": "beec.vn",
+    "company_url": "https://itviec.com/companies/beec-vn",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Số 62 Tây Trà, Khu tái định cư X3, Phường Trần Phú, Hoang Mai, Ha Noi",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "BlueBottle Digital Việt Nam",
+    "company_url": "https://itviec.com/companies/bluebottle-digital-viet-nam",
+    "type": "Product",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Phòng 511 tầng 5 tòa nhà Toyota Mỹ Đình, số 15 Phạm Hùng, phường Mỹ Đình 2, Nam Tu Liem, Ha Noi",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "bbv Vietnam",
+    "company_url": "https://itviec.com/companies/bbv-vietnam",
+    "type": "Outsourcing",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Switzerland",
+    "location": "Quang Trung software city, District 12, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Blue Ocean Tech",
+    "company_url": "https://itviec.com/companies/blue-ocean-tech",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "HAGL Safomec Building, 3/1 Thanh Thai, Ward 14, District 10, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "CarMD",
+    "company_url": "https://itviec.com/companies/carmd",
+    "type": "Product",
+    "size": "151-300 employees",
+    "working_day": "Monday - Friday",
+    "country": "United States",
+    "location": "364 Cong Hoa, Tan Binh, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Backbase",
+    "company_url": "https://itviec.com/companies/backbase",
+    "type": "Product",
+    "size": "1000+ employees",
+    "working_day": "Monday - Friday",
+    "country": "Singapore",
+    "location": "Remote, Other, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Bacha Soft",
+    "company_url": "https://itviec.com/companies/bacha-soft",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "35.20 tòa C5 – Dcapitale Trần Duy Hưng, Cau Giay, Ha Noi",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "AZoom VietNam",
+    "company_url": "https://itviec.com/companies/azoom-vietnam",
+    "type": "Product",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Japan",
+    "location": "Handico Tower, Khu đô thị Mễ Trì Hạ, Phạm Hùng, Nam Tu Liem, Ha Noi",
+    "job_quantity": "3 job openings"
+  },
+  {
+    "company_name": "Ayotree, Inc.",
+    "company_url": "https://itviec.com/companies/ayotree-inc",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Golden King Tower in D. 7, Ho Chi Minh City, Vietnam, District 7, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Axalize Incorporated",
+    "company_url": "https://itviec.com/companies/axalize-incorporated",
+    "type": "Outsourcing",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "25T2 Building, N05, Hoang Dao Thuy, Trung Hoa, Cau Giay, Ha Noi",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "AWING",
+    "company_url": "https://itviec.com/companies/awing",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Tầng 11, Tòa nhà King Building, Số 7 Chùa Bộc, Dong Da, Ha Noi",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Ahasoft",
+    "company_url": "https://itviec.com/companies/ahasoft",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "South Korea",
+    "location": "TEDI Building,15A , Hoang Hoa Tham, Binh Thanh, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Aviron",
+    "company_url": "https://itviec.com/companies/aviron",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Canada",
+    "location": "10A D52 Street,, Tan Binh, Ho Chi Minh",
+    "job_quantity": "3 job openings"
+  },
+  {
+    "company_name": "AIDEAVN",
+    "company_url": "https://itviec.com/companies/aideavn",
+    "type": "Outsourcing",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "2F, Audi Hanoi Building, No 8, Pham Hung street, Me Tri ward, Nam Tu Liem, Ha Noi",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "Adnovum Vietnam",
+    "company_url": "https://itviec.com/companies/adnovum-vietnam",
+    "type": "Outsourcing",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Switzerland",
+    "location": "Etown 2 Building, 364 Cong Hoa, Tan Binh, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Ada Beat Vietnam",
+    "company_url": "https://itviec.com/companies/ada-beat-vietnam",
+    "type": "Outsourcing",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Sweden",
+    "location": "F10, Thien Nam Office Building, No. 111 - 121 Ngo Gia Tu Street, Ward 02, District 10, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "Abilive Vietnam Co., Ltd.",
+    "company_url": "https://itviec.com/companies/abilive-vietnam-co-ltd",
+    "type": "Outsourcing",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Japan",
+    "location": "Số 2, Ngõ 24, Đường Nguyễn Văn Ngọc, Phường Cống Vị, Ba Dinh, Ha Noi",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "99Tech",
+    "company_url": "https://itviec.com/companies/99tech",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Singapore",
+    "location": ".",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "2DM Soft",
+    "company_url": "https://itviec.com/companies/2dm-soft",
+    "type": "Product",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Tong Huu Dinh, Phuong Thao Dien, Thu Duc City, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "5EAGLES",
+    "company_url": "https://itviec.com/companies/5eagles",
+    "type": "Outsourcing",
+    "size": "1-50 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "8 Street 14, Chu Van An, Ward 26, Binh Thanh, Ho Chi Minh",
+    "job_quantity": "1 job opening"
+  },
+  {
+    "company_name": "ABBANK",
+    "company_url": "https://itviec.com/companies/abbank",
+    "type": "Product",
+    "size": "1000+ employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "2 - 2A Phan Dinh Giot, Tan Binh, Ho Chi Minh",
+    "job_quantity": "2 job openings"
+  },
+  {
+    "company_name": "British University Vietnam (BUV)",
+    "company_url": "https://itviec.com/companies/british-university-vietnam-buv",
+    "type": "Product",
+    "size": "51-150 employees",
+    "working_day": "Monday - Friday",
+    "country": "Vietnam",
+    "location": "Ecopark township, Van Giang, Hung Yen",
+    "job_quantity": "1 job opening"
+  }
+]
