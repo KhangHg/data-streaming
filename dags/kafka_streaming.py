@@ -1,72 +1,108 @@
 from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-
+import json
+import os
+from kafka import KafkaProducer
 default_args = {
     'owner': 'airscholar',
     'start_date': datetime(2023, 12, 18, 10, 00)
 }
 
-def get_data():
-    import requests
+#read json data file
+def read_json_file(file_name, **kwargs):
+    import logging
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(base_path, file_name)
+    try:
+        with open(file_path, 'r') as file:
+            data = json.load(file)
+        return data
+    except Exception as e:
+        logging.error(f'Error in read_json_file: {e}', exc_info=True)
 
-    res = requests.get("https://randomuser.me/api/")
-    res = res.json()
-    res = res['results'][0]
-    return res
+companies_data = read_json_file('companies.json')
+jobs_data = read_json_file('jobs.json')
 
-def format_data(res):
-    data = {}
-    location = res['location']
-    # data['id'] = uuid.uuid4()
-    data['first_name'] = res['name']['first']
-    data['last_name'] = res['name']['last']
-    data['gender'] = res['gender']
-    data['address'] = f"{str(location['street']['number'])} {location['street']['name']}, " \
-                      f"{location['city']}, {location['state']}, {location['country']}"
-    data['post_code'] = location['postcode']
-    data['email'] = res['email']
-    data['username'] = res['login']['username']
-    data['dob'] = res['dob']['date']
-    data['registered_date'] = res['registered']['date']
-    data['phone'] = res['phone']
-    data['picture'] = res['picture']['medium']
-
-    return data
-
-def stream_data():
+#stream job data to broker browser
+def stream_job_data(**kwargs):
     import json
-    from kafka import KafkaProducer
     import time
     import logging
+    from kafka import KafkaProducer
 
+    producer = KafkaProducer( bootstrap_servers=['broker:29092'], max_block_ms=5000)
+    curr_time = time.time()
+    while True:
+        if time.time() > curr_time + 60: # 1 minute
+            break
+        try:  
+            if 'jobs' in kwargs:
+                listJob = kwargs['jobs']
+         
+            #data_length = len(listJob)  # Avoid using built-in names like 'len'
+            for job in listJob:
+                producer.send('jobs', json.dumps(job).encode('utf-8'))
+                
+            producer.flush()
+        except Exception as e:
+            logging.error(f'Error in stream_company_data: {e}', exc_info=True)
+
+#stream company data to broker browser
+def stream_company_data(**kwargs):
+    import json
+    import time
+    import logging
+    from kafka import KafkaProducer
 
     producer = KafkaProducer(bootstrap_servers=['broker:29092'], max_block_ms=5000)
     curr_time = time.time()
-
     while True:
-        if time.time() > curr_time + 60: #1 minute
+        if time.time() > curr_time + 60: # 1 minute
             break
-        try:
-            res = get_data()
-            res = format_data(res)
-
-            producer.send('users_created', json.dumps(res).encode('utf-8'))
+        try:  
+            if 'companies' in kwargs:
+                listCompany = kwargs['companies']
+         
+            #data_length = len(listCompany)
+            for company in listCompany:
+                producer.send('companies', json.dumps(company).encode('utf-8'))
+                
+            producer.flush()
         except Exception as e:
-            logging.error(f'An error occured: {e}')
-            continue
+            logging.error(f'Error in stream_company_data: {e}', exc_info=True)
 
-
-
-with DAG('user_automation',
+with DAG('crawl_job_automation',
          default_args=default_args,
-         schedule_interval='@daily',
-        #  schedule_interval=timedelta(minutes=2),
+         schedule_interval=timedelta(minutes= 1),
          catchup=False) as dag:
-
-    streaming_task = PythonOperator(
-        task_id='stream_data_from_api',
-        python_callable=stream_data
+    
+    read_company_file = PythonOperator(
+        task_id = 'read_company_file',
+        python_callable = read_json_file,
+        provide_context=True,
+        op_kwargs={'file_name': 'companies.json'}
+    )
+    
+    read_job_file = PythonOperator(
+        task_id = 'read_job_file',
+        python_callable = read_json_file,
+        provide_context=True,
+        op_kwargs={'file_name': 'jobs.json'}
+    )
+    
+    streaming_job = PythonOperator(
+        task_id = 'stream_job_data',
+        python_callable = stream_job_data,
+        provide_context=True,
+        op_kwargs={'jobs': jobs_data}
+    )
+    
+    streaming_company = PythonOperator(
+        task_id = 'stream_company_data',
+        python_callable = stream_company_data,
+        provide_context=True,
+        op_kwargs={'companies': companies_data}
     )
 
-# stream_data();
+[read_company_file, read_job_file] >> streaming_job >> streaming_company
